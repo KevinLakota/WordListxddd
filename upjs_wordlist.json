@@ -5,7 +5,7 @@
       "name": "Univerzita Pavla Jozefa Šafárika Košice - Kombinácie skratiek",
       "description": "Rôzne možné skratky a názvy vzťahujúce sa k UPJŠ v Košiciach",
       "usage": 4,
-      "link": "https://example.org/wordlists/upjs",
+      "link": "https://raw.githubusercontent.com/KevinLakota/WordListxddd/master/upjs_wordlist.json",
       "entries": [
         {
           "value": "UPJŠ",
